@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ 
+}
+
+body{
+    box-sizing: border-box;
+    background-color: #ffff;
+}
+nav{
+position: fixed;z-index: 9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999;
+div{
+
+}
+    
+}
+.circlebtndiv{
+    button{
+        div{
+            background-color: gray;
+    }
+        }
+}
+
+.circlebtndiv{
+    button:hover{
+   div{
+    background-color: blue !important;
+   }
+    }
+.button.active , .button:active .buttondiv{
+    background-color: blue !important;
+}
+    
+
+    
+
+button:visited{
+    div::visited{
+        background-color: blue;
+    }
+}
+}
+
+
+.slick-slide {
+    width: 2em;
+ }
+
+ .slick-active {
+    width: 5.5em;
+    border: .1em solid black;
+ }
+
